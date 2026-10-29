@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Career Compass</string>
+    <string name="welcome_title">Find Your Tech Career Path</string>
+    <string name="welcome_subtitle">Discover tech careers aligned with your natural strengths across 5 core dimensions.</string>
+    <string name="start_assessment_btn">Start Assessment</string>
+    <string name="disclaimer_welcome">15 Questions • Takes ~3 minutes</string>
+
+    <!-- Profile Screen -->
+    <string name="profile_title">About You</string>
+    <string name="profile_subtitle">Enter your name to personalize your career report.</string>
+    <string name="name_label">Your Full Name</string>
+    <string name="name_hint">e.g. Alex Johnson</string>
+    <string name="education_label">Course / Education (Optional)</string>
+    <string name="education_hint">e.g. MCA 1st Year, B.Tech CSE</string>
+    <string name="continue_btn">Begin Assessment</string>
+    <string name="error_name_required">Please enter your name to continue.</string>
+
+    <!-- Assessment Screen -->
+    <string name="question_counter_format">Question %1$d of %2$d</string>
+    <string name="previous_btn">Previous</string>
+    <string name="next_btn">Next</string>
+    <string name="submit_assessment_btn">Submit Assessment</string>
+    <string name="option_1">Strongly Disagree</string>
+    <string name="option_2">Disagree</string>
+    <string name="option_3">Neutral</string>
+    <string name="option_4">Agree</string>
+    <string name="option_5">Strongly Agree</string>
+    <string name="error_select_option">Please select an answer to continue.</string>
+    <string name="submitting_assessment">Evaluating your scores…</string>
+
+    <!-- Results Dashboard -->
+    <string name="results_title">Your Assessment Results</string>
+    <string name="dimension_scores_header">Dimension Breakdown</string>
+    <string name="recommended_careers_header">Top Career Matches</string>
+    <string name="view_details_btn">View Career Details</string>
+    <string name="retake_assessment_btn">Retake Assessment</string>
+    <string name="results_disclaimer">Results are calculated using rule-based educational alignment heuristics.</string>
+
+    <!-- Career Details -->
+    <string name="career_details_title">Career Profile</string>
+    <string name="section_overview">Overview</string>
+    <string name="section_skills">Key Skills</string>
+    <string name="section_matching_rationale">Why This Fits You</string>
+    <string name="section_learning_activities">Next Steps &amp; Learning Roadmap</string>
+    <string name="back_to_results">Back to Results</string>
+</resources>

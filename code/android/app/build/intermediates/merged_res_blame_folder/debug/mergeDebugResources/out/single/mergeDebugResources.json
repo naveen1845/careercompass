@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.careercompass.app-debug-32:/drawable_bg_card.xml.flat",
+        "source": "com.careercompass.app-main-34:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.careercompass.app-debug-32:/layout_activity_assessment_history.xml.flat",
+        "source": "com.careercompass.app-main-34:/layout/activity_assessment_history.xml"
+    },
+    {
+        "merged": "com.careercompass.app-debug-32:/layout_item_assessment_history.xml.flat",
+        "source": "com.careercompass.app-main-34:/layout/item_assessment_history.xml"
+    },
+    {
+        "merged": "com.careercompass.app-debug-32:/layout_item_trait_score.xml.flat",
+        "source": "com.careercompass.app-main-34:/layout/item_trait_score.xml"
+    },
+    {
+        "merged": "com.careercompass.app-debug-32:/layout_activity_assessment.xml.flat",
+        "source": "com.careercompass.app-main-34:/layout/activity_assessment.xml"
+    },
+    {
+        "merged": "com.careercompass.app-debug-32:/layout_activity_welcome.xml.flat",
+        "source": "com.careercompass.app-main-34:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.careercompass.app-debug-32:/drawable_bg_button_secondary.xml.flat",
+        "source": "com.careercompass.app-main-34:/drawable/bg_button_secondary.xml"
+    },
+    {
+        "merged": "com.careercompass.app-debug-32:/layout_activity_career_detail.xml.flat",
+        "source": "com.careercompass.app-main-34:/layout/activity_career_detail.xml"
+    },
+    {
+        "merged": "com.careercompass.app-debug-32:/drawable_progress_bar_custom.xml.flat",
+        "source": "com.careercompass.app-main-34:/drawable/progress_bar_custom.xml"
+    },
+    {
+        "merged": "com.careercompass.app-debug-32:/drawable_ic_compass.xml.flat",
+        "source": "com.careercompass.app-main-34:/drawable/ic_compass.xml"
+    },
+    {
+        "merged": "com.careercompass.app-debug-32:/drawable_badge_dimension.xml.flat",
+        "source": "com.careercompass.app-main-34:/drawable/badge_dimension.xml"
+    },
+    {
+        "merged": "com.careercompass.app-debug-32:/drawable_bg_button.xml.flat",
+        "source": "com.careercompass.app-main-34:/drawable/bg_button.xml"
+    },
+    {
+        "merged": "com.careercompass.app-debug-32:/layout_activity_student_profile.xml.flat",
+        "source": "com.careercompass.app-main-34:/layout/activity_student_profile.xml"
+    },
+    {
+        "merged": "com.careercompass.app-debug-32:/layout_item_career_recommendation.xml.flat",
+        "source": "com.careercompass.app-main-34:/layout/item_career_recommendation.xml"
+    },
+    {
+        "merged": "com.careercompass.app-debug-32:/xml_network_security_config.xml.flat",
+        "source": "com.careercompass.app-main-34:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.careercompass.app-debug-32:/layout_activity_results.xml.flat",
+        "source": "com.careercompass.app-main-34:/layout/activity_results.xml"
+    }
+]

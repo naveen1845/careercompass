@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#0D9488</color>
+    <color name="accent_light">#14B8A6</color>
+    <color name="background">#F8FAFC</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_stroke">#E2E8F0</color>
+    <color name="divider">#F1F5F9</color>
+    <color name="option_selected">#EFF6FF</color>
+    <color name="option_stroke_selected">#3B82F6</color>
+    <color name="primary">#1E3A8A</color>
+    <color name="primary_light">#3B82F6</color>
+    <color name="primary_variant">#172554</color>
+    <color name="progress_indicator">#2563EB</color>
+    <color name="progress_track">#E2E8F0</color>
+    <color name="success">#16A34A</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_muted">#94A3B8</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="warning">#D97706</color>
+    <string name="app_name">Career Compass</string>
+    <string name="back_to_results">Back to Results</string>
+    <string name="career_details_title">Career Profile</string>
+    <string name="continue_btn">Begin Assessment</string>
+    <string name="dimension_scores_header">Dimension Breakdown</string>
+    <string name="disclaimer_welcome">15 Questions • Takes ~3 minutes</string>
+    <string name="education_hint">e.g. MCA 1st Year, B.Tech CSE</string>
+    <string name="education_label">Course / Education (Optional)</string>
+    <string name="error_name_required">Please enter your name to continue.</string>
+    <string name="error_select_option">Please select an answer to continue.</string>
+    <string name="name_hint">e.g. Alex Johnson</string>
+    <string name="name_label">Your Full Name</string>
+    <string name="next_btn">Next</string>
+    <string name="option_1">Strongly Disagree</string>
+    <string name="option_2">Disagree</string>
+    <string name="option_3">Neutral</string>
+    <string name="option_4">Agree</string>
+    <string name="option_5">Strongly Agree</string>
+    <string name="previous_btn">Previous</string>
+    <string name="profile_subtitle">Enter your name to personalize your career report.</string>
+    <string name="profile_title">About You</string>
+    <string name="question_counter_format">Question %1$d of %2$d</string>
+    <string name="recommended_careers_header">Top Career Matches</string>
+    <string name="results_disclaimer">Results are calculated using rule-based educational alignment heuristics.</string>
+    <string name="results_title">Your Assessment Results</string>
+    <string name="retake_assessment_btn">Retake Assessment</string>
+    <string name="section_learning_activities">Next Steps &amp; Learning Roadmap</string>
+    <string name="section_matching_rationale">Why This Fits You</string>
+    <string name="section_overview">Overview</string>
+    <string name="section_skills">Key Skills</string>
+    <string name="start_assessment_btn">Start Assessment</string>
+    <string name="submit_assessment_btn">Submit Assessment</string>
+    <string name="submitting_assessment">Evaluating your scores…</string>
+    <string name="view_details_btn">View Career Details</string>
+    <string name="welcome_subtitle">Discover tech careers aligned with your natural strengths across 5 core dimensions.</string>
+    <string name="welcome_title">Find Your Tech Career Path</string>
+    <style name="Theme.CareerCompass" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_variant</item>
+        <item name="colorOnPrimary">@color/text_on_primary</item>
+        
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent_light</item>
+        <item name="colorOnSecondary">@color/text_on_primary</item>
+        
+        <item name="android:statusBarColor">@color/primary_variant</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>

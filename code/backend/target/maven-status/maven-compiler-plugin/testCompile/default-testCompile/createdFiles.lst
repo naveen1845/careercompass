@@ -1,0 +1,5 @@
+testhelper/StandaloneVerificationRunner.class
+com/careercompass/model/EncapsulationValidationTest.class
+com/careercompass/service/RecommendationEngineTest.class
+com/careercompass/service/AssessmentServiceTest.class
+com/careercompass/service/ScoreCalculatorTest.class
